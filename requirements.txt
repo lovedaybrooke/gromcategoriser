@@ -1,0 +1,10 @@
+clarifai==2.0.33
+configparser==3.5.0
+enum34==1.1.6
+functools32==3.2.3.post2
+future==0.15.2
+jsonschema==2.5.1
+Pillow==2.9.0
+psycopg2==2.7.4
+psycopg2-binary==2.7.4
+requests==2.13.0
